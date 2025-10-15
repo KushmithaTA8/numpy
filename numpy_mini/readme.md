@@ -32,7 +32,7 @@ Jupyter Notebook or JupyterLab
 NumPy library
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/numpy-student-marks-management.git
+git clone https://github.com/KushmithaTA8/numpy-student-marks-management.git
 cd numpy-student-marks-management
 Install dependencies:
 pip install numpy jupyter
@@ -168,5 +168,6 @@ Restart the kernel and run again
 ⭐ If you find this notebook helpful, please consider giving it a star!
 
 📧 Questions or suggestions? Open an issue or reach out!
+
 
 Happy Learning! 🎓
